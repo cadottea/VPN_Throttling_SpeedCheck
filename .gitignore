@@ -1,0 +1,20 @@
+# Ignore Python cache files and folders
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore data and results directories
+available_servers/
+server_results/
+
+# Ignore logs, temporary files, and unnecessary system files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Python files if generated during execution
+*.pyc
+
+# Ignore backup files
+*~
