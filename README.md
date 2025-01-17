@@ -73,7 +73,7 @@ The **Internet Throttling Detection Project** is an automated system designed to
 ## Usage
 
 ### Run the Main Program (with and without your VPN active)
-```bash
+
 python main.py
 
 Plot Results
