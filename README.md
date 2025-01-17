@@ -82,7 +82,7 @@ python graph.py
 Calculate VPN vs. Non-VPN Differences
 python difference_vpn.py
 
-## File Structure
+### File Structure
 
 - **`available_servers/`**: Contains the current list of servers for testing. Automatically created and refreshed as needed.
 - **`server_results/`**: Stores speed test results organized by server ID.
