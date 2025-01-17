@@ -84,12 +84,12 @@ python difference_vpn.py
 
 ### File Structure
 
-- `available_servers/`: Contains the current list of servers for testing. Automatically created and refreshed as needed.
-- `server_results/`: Stores speed test results organized by server ID.
-- `main.py`: The primary script to run speed tests.
-- `versioning.py`: Dynamically imports the latest version of each module.
-- `graph.py`: Generates visual representations of test results.
-- `difference_vpn.py`: Compares VPN and non-VPN performance.
+- available_servers: Contains the current list of servers for testing. Automatically created and refreshed as needed.
+- server_results: Stores speed test results organized by server ID.
+- main.py: The primary script to run speed tests.
+- versioning.py: Dynamically imports the latest version of each module.
+- graph.py: Generates visual representations of test results.
+- difference_vpn.py: Compares VPN and non-VPN performance.
 
 Contributing
 
