@@ -73,13 +73,12 @@ The **Internet Throttling Detection Project** is an automated system designed to
 ## Usage
 
 ### Run the Main Program (with and without your VPN active)
-
 python main.py
 
-Plot Results
+### Plot Results
 python graph.py
 
-Calculate VPN vs. Non-VPN Differences
+### Calculate VPN vs. Non-VPN Differences
 python difference_vpn.py
 
 ### File Structure
