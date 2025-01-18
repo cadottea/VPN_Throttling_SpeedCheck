@@ -52,12 +52,12 @@ The **Internet Throttling Detection Project** is an automated system designed to
 
 ## Installation
 
-1. Clone this repository:
+  1. Clone this repository:
 
    git clone https://github.com/yourusername/internet-throttling-detection.git
    cd internet-throttling-detection
 
-    2.  Install required Python packages:
+  2.  Install required Python packages:
     pip install -r requirements.txt
 
 
@@ -96,14 +96,16 @@ python difference_vpn.py
 - **`difference_vpn.py`**  
   Compares VPN and non-VPN performance.
 
-Contributing
+
+
+### Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements or new features.
 
-License
+### License
 
 This project is licensed under the MIT License.
 
-Disclaimer
+### Disclaimer
 
 This project is intended for educational and informational purposes only. The user assumes all responsibility for its use.
